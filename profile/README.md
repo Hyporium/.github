@@ -4,7 +4,7 @@
 <div align="center">
 
   [![wakatime](https://wakatime.com/badge/user/64e543c0-7d1b-46a7-8b25-3aa76bb1f344.svg)](https://wakatime.com/@64e543c0-7d1b-46a7-8b25-3aa76bb1f344)
-  ![](https://komarev.com/ghpvc/?username=hyporium&color=blueviolet)
+  ![](https://komarev.com/ghpvc/?username=kezulox&color=blueviolet)
 
   <img src="https://discord.c99.nl/widget/theme-1/844661187702161469.png"></img>
 
