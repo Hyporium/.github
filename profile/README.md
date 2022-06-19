@@ -8,7 +8,7 @@
 
   <img src="https://discord.c99.nl/widget/theme-1/844661187702161469.png"></img>
 
-  ![Kezulox's's GitHub stats](https://github-readme-stats.vercel.app/api?username=kezulox&show_icons=true&theme=radical)
+  ![Kezulox's's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyporium&show_icons=true&theme=radical)
 </div>
 
 ## About
