@@ -15,7 +15,7 @@
 I'm kezulox and I typically work with C# and NodeJS. I started learning how to code about 2016-17, when I was bored and didn't feel like writing an English essay. Since then, it's grown on me, as well as learning about how computers interact with others and how they work internally. Hopefully in the future, I can get into software development.
 
 ## What I'm currently working on
-* [Hyporium](https://github.com/Hyporium) - Most of my repositories go here
+* [Hyporium](https://github.com/hyporium) - Most of my repositories go here
 
 ## Languages I know
 * C#
