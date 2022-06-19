@@ -4,11 +4,11 @@
 <div align="center">
 
   [![wakatime](https://wakatime.com/badge/user/64e543c0-7d1b-46a7-8b25-3aa76bb1f344.svg)](https://wakatime.com/@64e543c0-7d1b-46a7-8b25-3aa76bb1f344)
-  ![](https://komarev.com/ghpvc/?username=kezulox&color=blueviolet)
+  ![](https://komarev.com/ghpvc/?username=hyporium&color=blueviolet)
 
   <img src="https://discord.c99.nl/widget/theme-1/844661187702161469.png"></img>
 
-  ![Kezulox's's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyporium&show_icons=true&theme=radical)
+  ![Kezulox's's GitHub stats](https://github-readme-stats.vercel.app/api?username=kezulox&show_icons=true&theme=radical)
 </div>
 
 ## About
